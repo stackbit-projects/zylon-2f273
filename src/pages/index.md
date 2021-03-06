@@ -22,7 +22,7 @@ sections:
       laboratories including Commercial Testing , R&D & Quality Control
       laboratories.
     features:
-      - title: The Best Feature of Your Services
+      - title: Sample Registration
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
