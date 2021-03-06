@@ -7,8 +7,7 @@ sections:
     image_alt: App preview
     title: SOFTWARE SIMPLIFIED
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+      Zylon Technologies offers s
     actions:
       - label: Learn More
         url: /features
