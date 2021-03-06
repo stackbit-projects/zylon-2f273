@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: SOFTWARE SIMPLIFIED
     content: >-
-      Zylon Technologies offers s
+      Zylon Technologies offers a suite of applications to help you run you business smoothly
     actions:
       - label: Learn More
         url: /features
