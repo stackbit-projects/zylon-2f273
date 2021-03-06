@@ -98,7 +98,7 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
-    title: Improve prouctivity and efficiency.
+    title: Improve productivity and efficiency.
   - section_id: recent-posts
     type: section_posts
     background: gray
