@@ -3,11 +3,12 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/6.jpg
     image_alt: App preview
     title: SOFTWARE SIMPLIFIED
     content: >-
-      Zylon Technologies offers a suite of applications to help you run you business smoothly.
+      Zylon Technologies offers a suite of applications to help you run you
+      business smoothly.
     actions:
       - label: Learn More
         url: /features
