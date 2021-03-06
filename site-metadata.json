@@ -2,7 +2,7 @@
     "base_font": "nunito-sans",
     "palette": "blue",
     "header": {
-        "logo_img": "images/Screenshot 2021-03-06 at 9.05.47 AM.png",
+        "logo_img": "images/remarkable-whale.png",
         "logo_img_alt": "Logo",
         "has_nav": true,
         "nav_links": [
