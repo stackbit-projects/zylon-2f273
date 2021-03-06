@@ -98,6 +98,7 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
+    title: 'Improve '
   - section_id: recent-posts
     type: section_posts
     background: gray
